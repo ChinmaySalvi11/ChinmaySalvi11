@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **HTML, CSS, React, Javascript, Python, Django, MySql**
 
-- 📫 How to reach me **chinmaytsalvi@gmail.com**
+- 📫 How to reach me **chinmaytsalvi@gmail.com** or **8208811461**
 
 - 📄 Know about my experiences [portfolio-chinmay.netlify.app](portfolio-chinmay.netlify.app)
 
