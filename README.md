@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **chinmaytsalvi@gmail.com** or **8208811461**
 
-- 📄 Know about my experiences [https://portfolio-chinmay.netlify.app/](https://portfolio-chinmay.netlify.app/)
+- 📄 Know more about me [https://portfolio-chinmay.netlify.app/](https://portfolio-chinmay.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
